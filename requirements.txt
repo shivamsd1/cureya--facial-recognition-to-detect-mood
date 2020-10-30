@@ -1,0 +1,8 @@
+1. install python 3.7 
+2. pip install tensorflow
+3. pip install keras
+4. pip install opencv-python
+5. pip install mtcnn
+6 DATASET USED:
+     "FER2013.csv" from Kaggle
+     LINk:https://www.kaggle.com/deadskull7/fer2013
